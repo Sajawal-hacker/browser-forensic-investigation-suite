@@ -48,7 +48,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 APP_VERSION = "1.0.0"
-APP_NAME = "Browser Forensic Investigation Suite By Sajawal Hacke"
+APP_NAME = "Browser Forensic Investigation Suite By Sajawal Hacker"
 
 # ═══════════════════════════════════════════════════════════════════
 # DARK THEME STYLESHEET
