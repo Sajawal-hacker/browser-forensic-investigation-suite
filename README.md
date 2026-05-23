@@ -30,6 +30,26 @@
 
 ---
 
+## Screenshots
+
+### Dashboard
+
+![Dashboard](screenshots/Dashboard.jpg)
+
+### Overview
+
+![Analytics](screenshots/Overview.jpg)
+
+### History
+
+![Analytics](screenshots/History.jpg)
+
+### Profiles
+
+![Analytics](screenshots/Profiles.jpg)
+
+---
+
 ## Technologies Used
 
 - Python
